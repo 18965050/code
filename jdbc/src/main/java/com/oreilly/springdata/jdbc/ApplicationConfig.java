@@ -14,8 +14,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * @author Thomas Risberg <br />
- *         we change for test
+ * @author Thomas Risberg
  */
 @Configuration
 @EnableTransactionManagement
